@@ -1,8 +1,8 @@
 # Progressive_GAN
 Pro GANs train like human brain. First they train on small things and after that they will go on bigger things. This process will make the model to perform better because it fixes its problems better. Now let's get more technical into it. <br>
 
-Please go and checkout my article about Progressive GANs and this source on my Medium via this link: <br>
-<br>
+## Please go and checkout my article about Progressive GANs and this source on my Medium via this link: <br>
+https://medium.com/@YasinShafiei/progressive-gan-on-celeb-a-dataset-with-pytorch-bad190264b78
 <br>
 
 
