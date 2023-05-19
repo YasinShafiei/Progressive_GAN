@@ -5,6 +5,10 @@ Pro GANs train like human brain. First they train on small things and after that
 https://medium.com/@YasinShafiei/progressive-gan-on-celeb-a-dataset-with-pytorch-bad190264b78
 <br>
 
+---
+
+Progressive GANs work like human brain. They start training with small images (4x4) and reach to (1024x1024) <br>
+To have more imformation, please go and checkout my article! 
 
 ## Some examples generated: <br>
 ![img_46](https://user-images.githubusercontent.com/91404054/228603849-4d8a7e4a-2a47-46ee-8487-c7906ccc9240.png)
